@@ -148,12 +148,5 @@ Este projeto é de código aberto e está disponível sob a licença MIT.
 **Julianeves01**
 - GitHub: [@Julianeves01](https://github.com/Julianeves01)
 
-## 🙏 Agradecimentos
-
-- Expo team pelo framework incrível
-- React Native community pelas bibliotecas e suporte
-- Unsplash pelas imagens utilizadas no banner
-
----
 
 ⭐ Se este projeto foi útil para você, considere dar uma estrela no repositório!
